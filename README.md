@@ -10,7 +10,7 @@ HTML, CSS and JavaScript powered by Claude AI!
 - ✅ Enter key to send message
 - ✅ Smooth scroll
 - ✅ Mobile friendly
-- ✅ Powered by Claude AI
+- ✅ Powered by Gemini AI
 
 ##  Live Demo
  [Click here to try it!](https://neha2006-6.github.io/ai-chatbot-js)
